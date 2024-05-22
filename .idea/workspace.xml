@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc85f23c-5eec-4a02-957e-1e2af43f1459" name="Changes" comment="Fixed db connection">
+    <list default="true" id="bc85f23c-5eec-4a02-957e-1e2af43f1459" name="Changes" comment="Added req">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
@@ -104,7 +104,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1716364313582</updated>
-      <workItem from="1716364314910" duration="3766000" />
+      <workItem from="1716364314910" duration="4168000" />
     </task>
     <task id="LOCAL-00001" summary="Init project and repo">
       <option name="closed" value="true" />
@@ -178,7 +178,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716367961903</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Added req">
+      <option name="closed" value="true" />
+      <created>1716368110336</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1716368110336</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,6 +213,7 @@
     <MESSAGE value="Fixed app name ProcFile" />
     <MESSAGE value="Added db connection" />
     <MESSAGE value="Fixed db connection" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed db connection" />
+    <MESSAGE value="Added req" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added req" />
   </component>
 </project>
