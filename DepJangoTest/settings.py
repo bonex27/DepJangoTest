@@ -120,7 +120,7 @@ STATIC_ROOT = BASE_DIR / "staticfiles"
 # https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field
 import dj_database_url
 
-db_from_env = dj_database_url.config(conn_max_age=500, conn_health_check=True,)
+db_from_env = dj_database_url.config()
 print(db_from_env)
 DATABASES['default'].update(db_from_env)
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
